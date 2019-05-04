@@ -20,7 +20,7 @@ https://torrbag.github.io/pn_Rail/
 
 ## Author
 
-<a hre"#"> **torrbag** </a>
+<a hre"#">torrbag</a>
 
 ## License
 
