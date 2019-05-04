@@ -2,10 +2,6 @@
 
 Infinite Touch / Drag enabled Content Slider
 
-## Getting Started
-
-Check out Demo Folder
-
 ### Prerequisites
 
 None!
