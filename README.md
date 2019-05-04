@@ -1,6 +1,6 @@
 # Rail-JS
 
-One Paragraph of project description goes here
+Infinite Touch/Drag enabled Content Slider
 
 ## Getting Started
 
