@@ -1,3 +1,6 @@
+/*!
+Rail-JS (MIT license)
+*/
 class Rail {
   constructor(opts) {
     for (let o in opts) {
