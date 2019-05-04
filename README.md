@@ -1,6 +1,6 @@
 # Rail-JS
 
-Infinite Touch/Drag enabled Content Slider
+Infinite Touch / Drag enabled Content Slider
 
 ## Getting Started
 
