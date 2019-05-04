@@ -52,12 +52,12 @@ class Rail {
     };
 
     const unlock = (e) => {
+      e.preventDefault();
       free = true;
       old = device(e).clientX;
     };
 
     const drag = (e) => {
-      e.preventDefault();
       if (free) {
         transition(0, this.slide_style);
         let bounds = -Math.round(
