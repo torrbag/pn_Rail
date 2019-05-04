@@ -21,9 +21,7 @@ https://torrbag.github.io/pn_Rail/
 
 ## Author
 
-* **Chris Dorman** torrbag
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **torrbag** 
 
 ## License
 
