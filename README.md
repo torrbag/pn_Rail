@@ -14,13 +14,13 @@ None!
 
 git clone https://github.com/torrbag/pn_Rail.git
 
-## <a href="https://torrbag.github.io/pn_Rail/">Demo Page</a>
+## Demo Page
 
 https://torrbag.github.io/pn_Rail/
 
 ## Author
 
-* **torrbag** 
+* **<a hre"#">torrbag</a>** 
 
 ## License
 
