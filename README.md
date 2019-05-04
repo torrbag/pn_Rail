@@ -1,4 +1,4 @@
-# Project Title
+# Rail-JS
 
 One Paragraph of project description goes here
 
