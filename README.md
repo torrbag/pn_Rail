@@ -19,9 +19,9 @@ git clone https://github.com/torrbag/pn_Rail.git
 https://torrbag.github.io/pn_Rail/
 
 
-## Authors
+## Author
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Chris Dorman** torrbag
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
