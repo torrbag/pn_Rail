@@ -14,8 +14,8 @@ body {
   left: 0;
   right: 0;
   margin: auto;
-  width: calc(80%);
-  height: calc(60%);
+  width: 80%;
+  height: 60%;
   overflow: hidden;
 }
 
@@ -42,6 +42,5 @@ body {
   height: 100%;
   object-fit: cover;
   opacity: 0.6;
-  filter: grayscale();
   cursor: e-resize;
 }
