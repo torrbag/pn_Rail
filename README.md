@@ -1,4 +1,4 @@
-# Rail-JS
+# <a href="#">Rail-JS</a>
 
 Infinite Touch / Drag enabled Content Slider
 
@@ -18,7 +18,6 @@ git clone https://github.com/torrbag/pn_Rail.git
 
 https://torrbag.github.io/pn_Rail/
 
-<a href="#">cll</a>
 ## Author
 
 * **torrbag** 
