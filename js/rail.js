@@ -61,9 +61,7 @@ class Rail {
     const drag = (e) => {
       if (free) {
         transition(0);
-        let bounds = -Math.round(
-          cell[cur].offsetLeft - (device(e).clientX - old)
-        );
+        let bounds = -Math.round(cell[cur].offsetLeft - (device(e).clientX - old));
         tray.style.transform = `translate(${bounds}px)`;
         fact = factor(e);
       }
