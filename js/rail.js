@@ -47,10 +47,8 @@ class Rail {
     };
 
     const factor = (e) => {
-      let pos =
-        Math.max(device(e).clientX, old) - Math.min(device(e).clientX, old);
-      let speed =
-        (app.clientWidth - pos) * (this.slide_speed / app.clientWidth);
+      let pos = Math.max(device(e).clientX, old) - Math.min(device(e).clientX, old);
+      let speed = (app.clientWidth - pos) * (this.slide_speed / app.clientWidth);
       return Math.round(speed);
     };
 
@@ -62,7 +60,7 @@ class Rail {
 
     const drag = (e) => {
       if (free) {
-        transition(0, this.slide_style);
+        transition(0);
         let bounds = -Math.round(
           cell[cur].offsetLeft - (device(e).clientX - old)
         );
@@ -76,7 +74,7 @@ class Rail {
         if (device(e).clientX < old - 100) {
           if (cur > tot - 4) {
             setTimeout(() => {
-              transition(0, this.slide_style);
+              transition(0);
               translate((cur = 2));
             }, fact);
           }
@@ -84,7 +82,7 @@ class Rail {
         } else if (device(e).clientX > old + 100) {
           if (cur < 3) {
             setTimeout(() => {
-              transition(0, this.slide_style);
+              transition(0);
               translate((cur = tot - 3));
             }, fact);
           }
