@@ -16,7 +16,7 @@ https://torrbag.github.io/pn_Rail/
 
 ## Author
 
-**torrbag**
+**Chris Dorman** torrbag@pm.me
 
 ## License
 
