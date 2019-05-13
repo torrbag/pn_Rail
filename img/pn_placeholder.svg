@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="958.115" height="779.768" viewBox="0 0 253.501 206.314">
+  <defs>
+    <filter id="a" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#000" flood-opacity=".835" result="flood"/>
+      <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+      <feGaussianBlur in="composite1" result="blur" stdDeviation=".2"/>
+      <feOffset dx=".1" dy=".1" result="offset"/>
+      <feComposite in="offset" in2="SourceGraphic" operator="atop" result="fbSourceGraphic"/>
+      <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+      <feFlood flood-color="#FFF" flood-opacity=".56" result="flood"/>
+      <feComposite in="flood" in2="fbSourceGraphic" operator="out" result="composite1"/>
+      <feGaussianBlur in="composite1" result="blur"/>
+      <feOffset dx="-.1" dy="-.1" result="offset"/>
+      <feComposite in="offset" in2="fbSourceGraphic" operator="atop" result="composite2"/>
+    </filter>
+  </defs>
+  <g filter="url(#a)" transform="translate(-865.708 -1110.134) scale(2.42645)">
+    <path fill="#494949" d="M390.216 507.427l-.802-3.81.802-.433.769.434z"/>
+    <path fill="#494949" fill-rule="evenodd" d="M394.147 496.04l-1.342.912c-.4-.35-.873-.619-1.394-.778l.265 1.105a2.879 2.879 0 0 1 1.5 2.415h3.705l-2.838-.543a3.784 3.784 0 0 0-.788-1.731zm-7.695.018l.881 1.376a3.784 3.784 0 0 0-.773 1.694l-2.827.566h3.69a2.878 2.878 0 0 1 1.392-2.353l.219-1.116c-.45.159-.86.4-1.214.704zm-3.112 3.977l3.257.635a3.78 3.78 0 0 0 .695 1.463l.386-1.05a2.613 2.613 0 0 1-.252-1.048zm9.836 0c-.01.417-.059.776-.255 1.13l.372.985a3.78 3.78 0 0 0 .719-1.524l3.06-.591z" paint-order="markers fill stroke"/>
+    <path fill="#a04141" d="M390.173 492.66c-.474 2.345-1.01 4.69-1.715 7.034h1.738zm-1.818 7.375a48.185 48.185 0 0 1-1.506 4.218l3.357-1.604-.008-2.614z"/>
+    <path fill="#494949" d="M390.216 507.427l-.802-3.81.802-.433.769.434zm-.047-14.734l.02 7.001h1.731c-.715-2.333-1.264-4.667-1.751-7.001zm.021 7.342l.008 2.647 3.367 1.583a48.213 48.213 0 0 1-1.539-4.23z"/>
+    <path d="M397.703 498.178v1.467h.759v-.668c0-.027.013-.04.04-.04h1.812c.027 0 .04.013.04.04v.668h.76v-.668c0-.22-.08-.407-.238-.562a.755.755 0 0 0-.562-.237zm3.833 0v.759h2.612c.027 0 .04.013.04.04v.498h-2.652v.17h3.41v-.668a.754.754 0 0 0-.237-.562.755.755 0 0 0-.561-.237zm4.712 0c-.22 0-.409.08-.567.237a.765.765 0 0 0-.232.562v.668h.759v-.668c0-.027.013-.04.04-.04h1.865v-.759h-1.865zm2.402 0v.759h2.611c.027 0 .04.013.04.04v.498h-2.651v.17h3.41v-.668c0-.22-.08-.407-.237-.562a.755.755 0 0 0-.562-.237zm-10.947 1.833v2.857h.759v-1.332h1.852c.22 0 .408-.077.562-.231a.774.774 0 0 0 .237-.568v-.726h-.758v.726c0 .027-.014.04-.04.04h-1.813c-.027 0-.04-.013-.04-.04v-.726zm3.833 0v.726c0 .22.078.41.232.568a.784.784 0 0 0 .568.231h2.61v-1.525zm3.913 0v1.525h.759v-1.525zm3.2 0v.726c0 .22.078.41.232.568a.784.784 0 0 0 .568.231h2.611v-1.525zm-6.354.228h1.893v.539h-1.853c-.027 0-.04-.014-.04-.04zm7.113 0h1.893v.539h-1.852c-.027 0-.04-.014-.04-.04z" style="line-height:1.25;-inkscape-font-specification:'Orbitron, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" fill="#a04141" font-family="Orbitron" font-size="5.79" font-weight="700" letter-spacing="0" word-spacing="0"/>
+    <path d="M424.454 497.078v2.567h.758v-.708h1.309v-.759h-1.309v-1.1zm2.539 0v2.567h.758v-.668c0-.027.014-.04.04-.04h1.813c.027 0 .04.013.04.04v.668h.759v-.668c0-.22-.08-.407-.237-.562a.768.768 0 0 0-.562-.237h-1.853v-1.1zm-14.306.29v2.277h.765v-1.166l.98 1.166h1l-1.91-2.278zm3.4 0v2.277h.77v-2.278zm2.188.81c-.22 0-.41.08-.567.237a.765.765 0 0 0-.232.562v.668h.758v-.668c0-.027.014-.04.041-.04h1.812c.027 0 .04.013.04.04v.668h.76v-.668c0-.22-.08-.407-.238-.562a.755.755 0 0 0-.562-.237zm3.919 0a.78.78 0 0 0-.568.237.765.765 0 0 0-.231.562v.668h.758v-.668c0-.027.014-.04.04-.04h1.865v-.759h-1.864zm-9.507 1.833v1.525h.765v-1.525zm2.053 0l1.282 1.525h.834v-1.525h-.77v.414l-.347-.414zm2.736 0v.726c0 .22.077.41.232.568a.784.784 0 0 0 .567.231h1.812c.22 0 .408-.077.562-.231a.774.774 0 0 0 .237-.568v-.726h-.758v.726c0 .027-.014.04-.04.04h-1.813c-.027 0-.04-.013-.04-.04v-.726zm3.919 0v1.525h.758v-1.525zm3.059 0v.726c0 .22.077.41.231.568a.772.772 0 0 0 .568.231h1.268v-.758h-1.268c-.027 0-.04-.014-.04-.04v-.727zm2.539 0v1.525h.758v-1.525zm2.651 0v1.525h.759v-1.525z" style="line-height:1.25;-inkscape-font-specification:'Orbitron, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" fill="#494949" font-family="Orbitron" font-size="5.79" font-weight="700" letter-spacing="0" word-spacing="0"/>
+  </g>
+</svg>
